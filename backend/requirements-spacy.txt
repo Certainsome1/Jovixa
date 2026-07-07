@@ -1,0 +1,5 @@
+-r requirements.txt
+
+# Optional company/entity extraction enhancement.
+# Use this on Python versions supported by spaCy stable releases.
+spacy==3.8.13
